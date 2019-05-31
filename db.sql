@@ -1,8 +1,4 @@
-SET names utf8;
-DROP DATABASE IF EXISTS shop;
 
-CREATE DATABASE shop charset=utf8;
- use shop;
 CREATE TABLE small_carousel(
     id INT PRIMARY KEY AUTO_INCREMENT,
     lei varchar(255),

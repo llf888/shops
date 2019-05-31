@@ -9,9 +9,9 @@ CREATE TABLE small_carousel(
 );
 
 /*插入数据*/
-INSERT INTO small_carousel VALUES(null,"图书","哈利·波特与被诅咒的孩子",'"哈利·波特"第八个故事中文版震撼来袭!特别彩排版剧本',"29.37元","img/neirong/5e5da924-84e3-4959-9e25-5891cdf30757.png");
-INSERT INTO small_carousel VALUES(null,"图书","好吗好的","畅销作家大冰2016年新书!讲给你听,好吗好的!","17.9元","img/neirong/61e1385e-54de-48f3-8717-5e4f4b1cdd14.png");
-INSERT INTO small_carousel VALUES(null,"图书","梦中欢","一个清心寡欲,无欲无求的男神沉迷史!","7.9元","img/neirong/more-app.jpg");
+INSERT INTO small_carousel VALUES(null,"图书","哈利·波特与被诅咒的孩子",'"哈利·波特"第八个故事中文版震撼来袭!特别彩排版剧本',"29.37元","imgs/neirong/5e5da924-84e3-4959-9e25-5891cdf30757.png");
+INSERT INTO small_carousel VALUES(null,"图书","好吗好的","畅销作家大冰2016年新书!讲给你听,好吗好的!","17.9元","imgs/neirong/61e1385e-54de-48f3-8717-5e4f4b1cdd14.png");
+INSERT INTO small_carousel VALUES(null,"图书","梦中欢","一个清心寡欲,无欲无求的男神沉迷史!","7.9元","imgs/neirong/more-app.jpg");
 
 INSERT INTO small_carousel VALUES(null,"MIUI","BROWN &FRIENDS定制",'BROWN & FRIENDS 定制主题，是LINE FRIENDS在公司',"null","img/neirong/xmad_1554795253_HKsNc.png");
 INSERT INTO small_carousel VALUES(null,"MIUI主题","电影版<<下模友人帐>>","快下载《夏目友人帐》主题拥有最温柔的少年和最可爱的猫咪老师","免费","img/neirong/xmad_1551940859025_MrKLP.png");
